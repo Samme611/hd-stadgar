@@ -19,7 +19,7 @@ arrangemang.
 Medlem i föreningen är den som betalat senaste årsmötets befästa
 medlemsavgift för det nuvarande verksamhetsåret.
 Medlemsavgifter för studenter respektive icke-studenter sätts separat.
-Minst 50% av medlemmarna i föreningen ska också vara medlemmar i
+Majoriteten av medlemmarna i föreningen ska också vara medlemmar i
 Chalmers Studentkår.
 
 ### 3.2: Avstängning:
@@ -57,7 +57,7 @@ Ordförande och kassör är båda firmatecknare, var och en för sig.
 ## 6: Årsmöte:
 
 ### 6.1: Inför årsmöte:
-Årsmötet ska utlysas minst två månader i förväg.
+Årsmötet ska utlysas av styrelsen minst två månader i förväg.
 Motioner ska lämnas till styrelsen minst en månad i förväg.
 Korrekt inskickade motioner ska skickas ut till medlemmar snarast efter 
 motionsstopp.
@@ -83,6 +83,8 @@ motionsstopp.
 ## 6.3: Extrainsatt årsmöte:
 Extrainsatt årsmöte tillkallas då styrelsen, revisor eller minst en fjärdedel
 av föreningens medlemmar kräver det.
+Exempelvis kan det tillkallas i respons till förändrade omständigheter för
+föreningen, misstro mot ansvarsposter eller någon av dessas arbete.
 Vid giltigt krav på extrainsatt årsmöte kan de som krävt det sköta kallelsen.
 För att mötet ska vara beslutskraftigt måste det utlysas en månad i förväg.
 På extrainstatt årsmöte kan endast de motioner som var med i kallelsen
@@ -90,18 +92,21 @@ behandlas.
 
 ## 7: Stadgeändring:
 Dessa stadgar kan ändras genom att en ändring röstas igenom med två
-tredjedelars majoritet under två årsmöten.
+tredjedelars majoritet under två årsmöten (extrainsatt eller inte).
 Stadgeändringen måste ha varit korrekt motionerad inför båda dessa årsmöten.
 
 ## 8: Lägga föreningen i vila:
 Vid svårighet att välja in en styrelse till föreningen kan denna läggas i vila.
 Detta ska röstas igenom med två tredjelars majoritet under ordinarie årsmöte.
-Läggande i vila görs genom Chalmers Studentkår.
+Läggande i vila görs genom att lämna över alla tillgångar till Chalmers
+Studentkår, avsluta alla återkommande utgifter (bankavgifter t.ex.) och
+informera Chalmers Studentkår.
 
 ## 9: Upplösning:
-Föreningen kan upplösas om detta röstas igenom med två tredjedelars majoritet
+Utifall att föreningens syfte blir helt irrelevant och inte kan uppdateras
+till relevans kan föreningen upplösas.
+Det sker genom att upplösning röstas igenom med två tredjedelars majoritet
 under två efterföljande ordinarie årsmöten.
 Upplösningen måste ha varit korrekt motionerad inför båda dessa ordinarie
 årsmöten.
-Vid upplösning tilldelas föreningens tillgångar utefter årsmötets beslut.
-Vid tvist ska tillgångarna ges till Chalmers Studentkår för fördelning.
+Vid upplösning tilldelas föreningens tillgångar till Chalmers Studentkår.
