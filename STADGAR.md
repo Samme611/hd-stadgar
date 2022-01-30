@@ -35,8 +35,8 @@ kan uteslutas av årsmöte med minst två tredjedelars majoritet.
 Uteslutning protokollförs med minimal detalj.
 
 ## 4: Föreningens år:
-Föreningens verksamhets- och räkneskapsår går mellan 1:a Juni och
-31:a Maj.
+Föreningens verksamhets- och räkneskapsår går mellan 1:a Juli och
+30:e Juni.
 Föreningens ordinarie årsmöte infaller under Mars månad.
 Tiden mellan kommande verksamhetsårets styrelses inval och det verksamhetsåret
 är till upplärning av den styrelsen under och utav den sittande styrelsen.
@@ -99,8 +99,10 @@ Stadgeändringen måste ha varit korrekt motionerad inför båda dessa årsmöte
 Vid svårighet att välja in en styrelse till föreningen kan denna läggas i vila.
 Detta ska röstas igenom med två tredjelars majoritet under ordinarie årsmöte.
 Läggande i vila görs genom att lämna över alla tillgångar till Chalmers
-Studentkår, avsluta alla återkommande utgifter (bankavgifter t.ex.) och
-informera Chalmers Studentkår.
+Studentkår, betala och avsluta alla återkommande utgifter (bankavgifter t.ex.),
+och registrera för Skatteverket att föreningen är avslutad.
+Tanken är att Chalmers Studentkår kan underlätta uppstart utav en mostvarande
+förening i framtiden med de resurser och dokument som HD lämnar över.
 
 ## 9: Upplösning:
 Utifall att föreningens syfte blir helt irrelevant och inte kan uppdateras
