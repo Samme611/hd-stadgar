@@ -6,11 +6,11 @@ Föreningen är en kårförening under Chalmers Studentkår och lyder under
 de stadgar och reglementen som fastställts av Chalmers Studentkår.
 
 ## 2: Syfte:
-Föreningen ska arbeta för att främja datorintresse och spel.
+Föreningen ska arbeta för att främja spelintresse och samhörighet på Chalmers.
 Föreningen ska eftersträva att tillhandahålla medlemmar för syftet
 passande utrustning.
 Föreningen ska främja alkoholfritt umgänge på Chalmers, till exempel genom
-att inte tillåta alkohol i sina lokaler och primärt ha alkoholfria
+att inte tillåta förtäring av alkohol i sina lokaler och primärt ha alkoholfria
 arrangemang.
 
 ## 3: Medlemskap:
@@ -35,9 +35,9 @@ kan uteslutas av årsmöte med minst två tredjedelars majoritet.
 Uteslutning protokollförs med minimal detalj.
 
 ## 4: Föreningens år:
-Föreningens verksamhets- och räkneskapsår går mellan 1:a Juli och
-30:e Juni.
-Föreningens ordinarie årsmöte infaller under Mars månad.
+Föreningens verksamhets- och räkneskapsår går mellan 1:a juli och
+30:e juni.
+Föreningens ordinarie årsmöte infaller under maj månad.
 Tiden mellan kommande verksamhetsårets styrelses inval och det verksamhetsåret
 är till upplärning av den styrelsen under och utav den sittande styrelsen.
 
@@ -57,25 +57,25 @@ Ordförande och kassör är båda firmatecknare, var och en för sig.
 ## 6: Årsmöte:
 
 ### 6.1: Inför årsmöte:
-Årsmötet ska utlysas av styrelsen minst två månader i förväg.
-Motioner ska lämnas till styrelsen minst en månad i förväg.
+Årsmötet ska utlysas av styrelsen minst en månad i förväg.
+Motioner ska lämnas till styrelsen minst två veckor i förväg.
 Korrekt inskickade motioner ska skickas ut till medlemmar snarast efter 
 motionsstopp.
 
 ### 6.2: Årsmötets punkter:
 - Mötets öppnande
 - Val av mötesordförande och mötessekreterare
-- Val av två rösträknare
+- Val av två rösträknare tillika justerare
 - Fastställande av röstlängd
-- Val av två justerare
 - Fastställande av dagordning
 - Förra styrelsens verksamhetsberättelse och bokföring
 - Förra styrelsens revisorers berättelse
 - Frågan om ansvarsfrihet för förra styrelsen
 - Motioner
-- Kommande versamhetsårets verksamhetsplan och budget
-- Val av kommande verksamhetsårets styrelse
-- Val av kommande verksamhetsårets revisor(er)
+- Det kommande versamhetsårets preliminära verksamhetsplan och budget
+- Fastställande av medlemsavgift
+- Val av det kommande verksamhetsårets styrelse
+- Val av det kommande verksamhetsårets revisor(er)
 - Val av valberedare
 - Övriga frågor
 - Mötets avslutande
@@ -92,7 +92,7 @@ behandlas.
 
 ## 7: Stadgeändring:
 Dessa stadgar kan ändras genom att en ändring röstas igenom med två
-tredjedelars majoritet under två årsmöten (extrainsatt eller inte).
+tredjedelars majoritet under två efterföljande årsmöten (extrainsatt eller inte).
 Stadgeändringen måste ha varit korrekt motionerad inför båda dessa årsmöten.
 
 ## 8: Lägga föreningen i vila:
@@ -102,7 +102,7 @@ Läggande i vila görs genom att lämna över alla tillgångar till Chalmers
 Studentkår, betala och avsluta alla återkommande utgifter (bankavgifter t.ex.),
 och registrera för Skatteverket att föreningen är avslutad.
 Tanken är att Chalmers Studentkår kan underlätta uppstart utav en mostvarande
-förening i framtiden med de resurser och dokument som HD lämnar över.
+förening i framtiden med de resurser och dokument som föreningen lämnar över.
 
 ## 9: Upplösning:
 Utifall att föreningens syfte blir helt irrelevant och inte kan uppdateras
