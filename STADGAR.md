@@ -1,4 +1,4 @@
-# Stadgar för HD
+# Stadgar för Chans
 
 ## 1: Föreningsform:
 Föreningen är en religiöst och partipolitiskt obunden idéell förening.
